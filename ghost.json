@@ -2,5 +2,6 @@
   "status": true,
   "server": true,
   "bot": true,
-  "message": "You are a gay"
+  "message": "You are a gay",
+  "repl" : "https://api.itsn0b1t4.repl.co"
 }
